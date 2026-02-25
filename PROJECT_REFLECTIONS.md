@@ -1,4 +1,4 @@
-## This document is part of a continuous improvement approach in my Real-World Decision Support Systems for International Development projects.
+## This document is part of a continuous improvement approach in my Real-World Decision Support Systems projects.
 
 For each project in this repository, I include:
   
