@@ -13,7 +13,7 @@ Some projects in this repository are experimental and contribute to my continuou
 
 ## 🌍 Field Mandates
 
-### 🔹 SUCO – Guatemala – *Project Management Associate* (02/2026–Present)
+### 🔹 SUCO – Guatemala – *Project Management Associate* (02/2026–08/2026)
 - Supported strategic planning and key project initiatives in an international development context  
 - Contributed to the optimization of project management processes and workflows  
 - Conducted data analysis to support decision-making and risk management  
