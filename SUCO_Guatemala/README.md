@@ -1,5 +1,5 @@
 # SUCO – Guatemala  
-**Mandate Duration** : 7 months (February 2026 - September 2026)
+**Mandate Duration** : 7 months (February 2026 - August 2026)
 
 **Position** : Project Management Associate (Colaborador en gestión de proyectos)
 
