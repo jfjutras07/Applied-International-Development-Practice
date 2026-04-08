@@ -16,3 +16,6 @@ Practical and adaptable methodology to support partner organizations in structur
 
 ### 🔹 [NLP Analysis for Strategic Planning (REDSAG)](https://github.com/jfjutras07/Real-World-Decision-Support-for-International-Development/blob/main/SUCO_Guatemala/NLP_Analysis_REDSAG.ipynb)
 Python-based analysis of qualitative survey data using NLP to identify key themes, priorities, and challenges to inform strategic planning at network level.
+
+### 🔹 Strategic Audit of the PCV Program in Guatemala (soon to be added)
+Python-based systemic analysis combining quantitative and qualitative data to evaluate mandates, deliverables, and partner engagement, using descriptive, predictive, and prescriptive analytics to identify key success factors and generate transferable insights for strategic decision-making across SUCO programs.
