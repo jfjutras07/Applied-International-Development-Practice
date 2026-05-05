@@ -18,4 +18,4 @@ Practical and adaptable methodology to support partner organizations in structur
 Python-based analysis of qualitative survey data using NLP to identify key themes, priorities, and challenges to inform strategic planning at network level.
 
 ### 🔹 Strategic Audit of the PCV Program in Guatemala (soon to be added)
-Python-based systemic analysis combining quantitative and qualitative data to evaluate mandates, deliverables, and partner engagement, using descriptive, predictive, and prescriptive analytics to identify key success factors and generate transferable insights for strategic decision-making across SUCO programs.
+This project develops and tests an exploratory decision-support methodology for NGOs operating with limited data, using proxy indicators derived from projects. Based on a hybrid dataset, it applies analytics and machine learning to assess risks, identify key performance drivers, and support program prioritization. The goal is to demonstrate that this approach can be further developed into a robust methodology for program monitoring and decision-making in low-information NGO contexts.
