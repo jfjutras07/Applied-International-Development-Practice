@@ -17,5 +17,5 @@ Practical and adaptable methodology to support partner organizations in structur
 ### 🔹 [NLP Analysis for Strategic Planning (REDSAG)](https://github.com/jfjutras07/Real-World-Decision-Support-for-International-Development/blob/main/SUCO_Guatemala/NLP_Analysis_REDSAG.ipynb)
 Python-based analysis of qualitative survey data using NLP to identify key themes, priorities, and challenges to inform strategic planning at network level.
 
-### 🔹 Strategic Audit of the PCV Program in Guatemala (soon to be added)
+### 🔹 [Strategic Audit of the PCV Program in Guatemala](https://github.com/jfjutras07/Real-World-Decision-Support-for-International-Development/tree/main/SUCO_Guatemala/PCV%20Strategic%20Audit)
 This project develops and tests an exploratory decision-support methodology for NGOs operating with limited data, using proxy indicators derived from projects. Based on a hybrid dataset, it applies analytics and machine learning to assess risks, identify key performance drivers, and support program prioritization. The goal is to demonstrate that this approach can be further developed into a robust methodology for program monitoring and decision-making in low-information NGO contexts.
