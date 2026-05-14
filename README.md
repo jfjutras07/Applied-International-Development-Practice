@@ -21,8 +21,8 @@ Some projects in this repository are experimental and contribute to my continuou
 - Designed and contributed to lightweight decision support tools adapted to field constraints
 
 ### 🔹 Oxfam – Morocco – *Organizational Effectiveness and Governance Advisor* (08/2026–08/2027)
-- Supported organizational risk management and governance processes across national and international development projects
-- Contributed to project implementation and cross-functional support across diverse operational and strategic initiatives
-- Strengthened continuous improvement and operational efficiency within partner organizations and internal systems
-- Provided capacity-building support to partners, reinforcing governance, management practices, and execution capacity
-- Supported assessment and accompaniment of digital transformation and transition processes within partner organizations
+- Supported organizational risk management and governance processes across development projects
+- Contributed to implementation and support across diverse operational and strategic initiatives
+- Strengthened improvement efficiency within partner organizations and internal systems
+- Provided support, reinforcing governance, management practices, and execution capacity
+- Supported digital transformation and transition processes within partner organizations
