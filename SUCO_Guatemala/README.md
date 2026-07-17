@@ -19,3 +19,6 @@ Python-based analysis of qualitative survey data using NLP to identify key theme
 
 ### 🔹 [Strategic Audit of the PCV Program in Guatemala](https://github.com/jfjutras07/Real-World-Decision-Support-for-International-Development/tree/main/SUCO_Guatemala/PCV%20Strategic%20Audit)
 This project develops and tests an exploratory decision-support methodology for NGOs operating with limited data, using proxy indicators derived from projects. Based on a hybrid dataset, it applies analytics and machine learning to assess risks, identify key performance drivers, and support program prioritization. The goal is to demonstrate that this approach can be further developed into a robust methodology for program monitoring and decision-making in low-information NGO contexts.
+
+### 🔹 [Project Management Review Workshop](https://github.com/jfjutras07/Real-World-Decision-Support-for-International-Development/blob/main/SUCO_Guatemala/Project_Management_Review_Workshop.ipynb)
+Participatory workshop designed to assess project management practices among partner organizations through experience sharing, self-assessment exercises, and collective prioritization of improvement areas to support organizational learning and capacity strengthening.
