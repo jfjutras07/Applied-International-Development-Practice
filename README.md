@@ -1,21 +1,55 @@
 # Real-World Decision Support Systems for International Development
 
-This repository contains complete, real-world decision support systems designed to support planning, coordination, and operational decision-making. Each project, including those of smaller scope, demonstrates a full workflow (from problem framing and requirements analysis to system design, implementation, and practical use) and highlights how structured information and lightweight tools can support effective decisions in resource-constrained and impact-driven contexts.
+This repository contains applied tools, methodologies, and analytical approaches developed to support project management, quality improvement, risk management, and decision-making in international development contexts.
+
+Projects explore how structured information, analytical methods, and practical frameworks can improve planning, coordination, monitoring, and organizational effectiveness in resource-constrained and impact-driven environments.
+
+Each initiative demonstrates the application of analytical thinking, operational improvement approaches, and decision-support methods within real-world development mandates.
+
+## Applied Portfolio
+
+<table>
+  <thead>
+    <tr>
+      <th>Mandate / Context</th>
+      <th>Period</th>
+      <th>Focus & Main Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./SUCO_Guatemala">SUCO Guatemala</a></td>
+      <td>February 2026 – August 2026</td>
+      <td rowspan="2">
+        Project management, quality improvement, risk management, and decision support through operational tools, analytical methods, monitoring approaches, and structured frameworks supporting planning, coordination, organizational learning, and evidence-based decision-making
+      </td>
+    </tr>
+    <tr>
+      <td><a href="./SUCO_Peru">SUCO Peru</a></td>
+      <td>August 2026 – August 2027</td>
+    </tr>
+  </tbody>
+</table>
+
+## Applied Framework
+
+The initiatives developed in this repository focus on:
+
+- Structuring operational information to support decision-making
+- Improving project planning, monitoring, and coordination processes
+- Developing quality assurance and risk management approaches
+- Combining qualitative and quantitative information sources
+- Creating adaptable tools and methodologies for field environments
+- Supporting organizational learning and continuous improvement
 
 ## Organization
-Each project is contained in its own folder at the root of this repository.
 
-## Technical Stack
-Excel | Python | SQL
+Each applied mandate is contained in its own folder at the root of this repository.
 
-## Note
-Some projects in this repository are experimental and contribute to my continuous development in decision support system design, planning frameworks, and the development of lightweight, field-ready systems for international development and humanitarian contexts.
+## Analytical Toolkit
 
-## 🌍 Field Mandates
+Decision-support frameworks | Data analysis | Workflow design | Project management tools | Strategic planning methods | Risk assessment | Quality improvement | Qualitative analysis | NLP approaches | Machine learning applications
 
-### 🔹 SUCO – Guatemala / Peru – *Project Management Associate* (02/2026–08/2027)
-- Supported strategic planning and key project initiatives in an international development context  
-- Contributed to the optimization of project management processes and workflows  
-- Conducted data analysis to support decision-making and risk management  
-- Provided flexible support to evolving strategic and operational priorities  
-- Designed and contributed to lightweight decision support tools adapted to field constraints
+## Notes on Project Maturity
+
+This repository serves both as an applied portfolio and as a continuous development environment. Some initiatives are practical field-oriented tools, while others explore analytical extensions and proof-of-concept approaches. Insights and improvements from these activities progressively contribute to broader frameworks for project management, operational improvement, and decision support in international development contexts.
