@@ -12,7 +12,7 @@ The initiatives combine operational support, structured information management, 
 
 | Project | Focus & Main Contributions |
 |---|---|
-| **Funding & Activity Tracking Tool** | Excel-based system to track funding sources, link them to activities, monitor progress and budgets, and provide a simple dashboard for coordination and reporting. |
+| **Funding and Activity Tracking Tool** | Excel-based system to track funding sources, link them to activities, monitor progress and budgets, and provide a simple dashboard for coordination and reporting. |
 | **Project Prioritization Tool** | Excel-based decision-support tool to evaluate and prioritize project proposals using weighted criteria and a visual portfolio approach (impact vs effort). |
 | **Strategic Planning Methodology** | Practical and adaptable methodology to support partner organizations in structuring strategic planning, aligning operations with priorities, and improving decision-making processes. |
 | **NLP Analysis for Strategic Planning (REDSAG)** | Python-based analysis of qualitative survey data using NLP techniques to identify key themes, priorities, and challenges supporting strategic planning at network level. |
