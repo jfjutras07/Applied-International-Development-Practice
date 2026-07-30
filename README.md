@@ -1,4 +1,4 @@
-# Applied International Development Projects
+# Applied International Development Practice
 
 This repository contains applied tools, methodologies, and analytical approaches developed to support project management, quality improvement, risk management, and decision-making in international development contexts.
 
