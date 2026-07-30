@@ -1,10 +1,10 @@
 # Applied International Development Practice
 
-This repository contains applied tools, methodologies, and analytical approaches developed to support project management, quality improvement, risk management, and decision-making in international development contexts.
+This repository contains applied tools, methodologies, analytical approaches, and operational frameworks developed to strengthen project management, quality improvement, risk management, strategic planning, and evidence-informed decision-making in international development contexts.
 
-Projects explore how structured information, analytical methods, and practical frameworks can improve planning, coordination, monitoring, and organizational effectiveness in resource-constrained and impact-driven environments.
+Projects demonstrate how structured information, analytical methods, and practical management approaches can improve planning, coordination, monitoring, organizational learning, and operational effectiveness in resource-constrained and impact-driven environments.
 
-Each initiative demonstrates the application of analytical thinking, operational improvement approaches, and decision-support methods within real-world development mandates.
+Each initiative reflects the application of decision science, analytics, operational improvement, and organizational management within real-world international development mandates.
 
 ## Field Portfolio
 
@@ -35,12 +35,12 @@ Each initiative demonstrates the application of analytical thinking, operational
 
 The initiatives developed in this repository focus on:
 
-- Structuring operational information to support decision-making
+- Structuring operational information to support planning and decision-making
 - Improving project planning, monitoring, and coordination processes
-- Developing quality assurance and risk management approaches
-- Combining qualitative and quantitative information sources
-- Creating adaptable tools and methodologies for field environments
-- Supporting organizational learning and continuous improvement
+- Developing quality assurance, risk management, and organizational learning approaches
+- Combining qualitative and quantitative information to support evidence-informed management
+- Designing adaptable tools, methodologies, and operational frameworks for field environments
+- Strengthening organizational performance through continuous improvement
 
 ## Organization
 
