@@ -1,4 +1,4 @@
-# Real-World Decision Support Systems for International Development
+# Applied International Development Projects
 
 This repository contains applied tools, methodologies, and analytical approaches developed to support project management, quality improvement, risk management, and decision-making in international development contexts.
 
@@ -6,7 +6,7 @@ Projects explore how structured information, analytical methods, and practical f
 
 Each initiative demonstrates the application of analytical thinking, operational improvement approaches, and decision-support methods within real-world development mandates.
 
-## Applied Portfolio
+## Field Portfolio
 
 <table>
   <thead>
