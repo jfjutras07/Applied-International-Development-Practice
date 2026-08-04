@@ -10,14 +10,12 @@ The initiatives combine operational support, structured information management, 
 
 ## Projects
 
-## Projects
-
 | Project | Focus & Main Contributions |
 |---|---|
 | **Project Management Toolkit** | Modernized and standardized suite of project management tools, building upon a previously developed framework. Includes updated Excel-based prioritization and project monitoring tools, as well as a standardized Word project proposal template to improve consistency, planning, and decision-making. |
 | **Participatory Risk Management Framework** | Practical methodology to facilitate organizational risk identification and assessment through participatory workshops, leading to a structured risk action plan and a centralized dashboard for monitoring key risks and mitigation measures. |
 | **Quality and Performance Evaluation Framework** | Application of an evidence-based evaluation methodology to assess organizational and project performance using structured scoring systems and analytical approaches to support continuous improvement and strategic decision-making. |
-| **Operational Excellence Toolkit** | Lean-inspired tools designed to analyze and improve organizational processes through practical mapping, simplification, and standardization techniques, enabling partner organizations to strengthen operational efficiency and continuous improvement practices. |
+| **Operational Excellence Toolkit** | Lean-inspired process improvement toolkit designed to analyze and improve organizational processes through practical mapping, simplification, and standardization techniques, enabling partner organizations to strengthen operational efficiency and continuous improvement practices. |
 
 ## Organization
 
