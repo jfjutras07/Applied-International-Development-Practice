@@ -4,7 +4,7 @@
 
 **Position:** Project Management Associate (Colaborador en gestión de proyectos)
 
-This repository contains tools, methodologies, and analytical approaches developed to support project management, quality improvement, risk management, and decision-making within SUCO Peru operations.
+This repository contains tools, methodologies, and analytical approaches adapted and developed to support project management, quality improvement, risk management, and decision-making within SUCO Peru.
 
 The initiatives combine operational support, structured information management, analytical methods, and decision-support approaches adapted to international development contexts.
 
