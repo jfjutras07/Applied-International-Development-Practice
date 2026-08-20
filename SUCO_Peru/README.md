@@ -10,7 +10,7 @@ The initiatives combine operational support, structured information management, 
 
 ## Projects
 
-| Project | Focus & Main Contributions |
+| Project | Focus and Main Contributions |
 |---|---|
 | **Project Prioritization and Proposal Toolkit** | Adaptation and standardization of existing project management tools to support project prioritization and decision-making. Includes an Excel-based project prioritization tool, a standardized Word project proposal template, and a standardized project directory adapted from a previously developed tool. |
 | **Project Risk Management Framework** | Practical approach to identifying, assessing, prioritizing, and monitoring risks at the project level, supporting project teams in developing appropriate risk mitigation actions and strengthening risk-informed project management. |
