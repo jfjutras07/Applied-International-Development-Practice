@@ -12,10 +12,10 @@ The initiatives combine operational support, structured information management, 
 
 | Project | Focus & Main Contributions |
 |---|---|
-| **Project Management Toolkit** | Modernized and standardized suite of project management tools, building upon a previously developed framework. Includes updated Excel-based prioritization and project monitoring tools, as well as a standardized Word project proposal template to improve consistency, planning, and decision-making. |
-| **Participatory Risk Management Framework** | Practical methodology to facilitate organizational risk identification and assessment through participatory workshops, leading to a structured risk action plan. |
+| **Project Prioritization and Proposal Toolkit** | Adaptation and standardization of existing project management tools to support project prioritization and decision-making. Includes an Excel-based project prioritization tool, a standardized Word project proposal template, and a standardized project directory adapted from a previously developed tool. |
+| **Project Risk Management Framework** | Practical approach to identifying, assessing, prioritizing, and monitoring risks at the project level, supporting project teams in developing appropriate risk mitigation actions and strengthening risk-informed project management. |
 | **Quality and Performance Evaluation Framework** | Application of an evidence-based evaluation methodology to assess organizational and program performance using structured scoring systems and analytical approaches, supported by a performance dashboard to visualize results, track trends, identify areas for improvement, and inform strategic decision-making. |
-| **Operational Excellence Toolkit** | Lean-inspired process improvement toolkit designed to analyze and improve organizational processes through practical mapping, simplification, and standardization techniques, enabling partner organizations to strengthen operational efficiency and continuous improvement practices. |
+| **Project Support and Recovery** | Support to partner organizations in strengthening the management of ongoing projects, including project monitoring, problem identification, corrective action planning, and project recovery when projects face implementation challenges. |
 
 ## Organization
 
