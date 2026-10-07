@@ -18,6 +18,7 @@ The initiatives combine operational support, structured information management, 
 | **NLP Analysis for Strategic Planning (REDSAG)** | Python-based analysis of qualitative survey data using NLP techniques to identify key themes, priorities, and challenges supporting strategic planning at network level. |
 | **Strategic Audit of the PCV Program in Guatemala** | Exploratory decision-support methodology for low-data NGO environments using proxy indicators derived from projects. Combines analytics and machine learning approaches to assess risks, identify performance drivers, and support program prioritization. |
 | **Project Management Review Workshop** | Participatory workshop designed to assess project management practices through experience sharing, self-assessment exercises, and collective prioritization of improvement areas to support organizational learning and capacity strengthening. |
+| **Technical Support – TCIM** | Technical support for traditional, complementary and integrative medicine (TCIM) activities, including participation in a health-promotion day, support and review of amaranth-chain product deployment methods, and review of a medicinal plants guide and related products for sale against good practices. |
 
 ## Organization
 
