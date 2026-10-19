@@ -16,6 +16,10 @@ The initiatives combine operational support, structured information management, 
 | **Project Risk Management Capacity-Building** | Practical approach to identifying, assessing, prioritizing, and monitoring risks at the project level, supporting project teams in developing appropriate risk mitigation actions and strengthening risk-informed project management. |
 | **Project Support and Recovery** | Support to partner organizations in strengthening the management of ongoing projects, including project monitoring, problem identification, corrective action planning, and project recovery when projects face implementation challenges. |
 
+## Related Doctoral Research
+
+Alongside this operational mandate, I am applying an innovative ex-post program evaluation methodology developed as part of my doctoral research to support the remote closure and retrospective assessment of a completed development program in Honduras. The methodology is also being applied in Peru through parallel research activities. These research projects are documented separately in the **Decision Science Research** repository.
+
 ## Organization
 
 Each project is contained in its own folder within this repository.
