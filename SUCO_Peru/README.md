@@ -18,7 +18,7 @@ The initiatives combine operational support, structured information management, 
 
 ## Related Doctoral Research
 
-Alongside this operational mandate, I am applying an innovative ex-post program evaluation methodology developed as part of my doctoral research to support the remote closure and retrospective assessment of a completed development program in Honduras. The methodology is also being applied in Peru through parallel research activities. These research projects are documented separately in the **Decision Science Research** repository.
+Alongside this operational mandate, I am applying an innovative ex-post program evaluation methodology developed as part of my doctoral research to support the remote closure and retrospective assessment of a completed development program in Honduras. This research project is documented separately in the **Decision Science Research** repository.
 
 ## Organization
 
