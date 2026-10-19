@@ -14,7 +14,6 @@ The initiatives combine operational support, structured information management, 
 |---|---|
 | **Resource Mobilization Strategy** | Adaptation and standardization of existing project management tools to support project prioritization and decision-making. Includes an Excel-based project prioritization tool, a standardized Word project proposal template, and a standardized project directory adapted from a previously developed tool. |
 | **Project Risk Management Capacity-Building** | Practical approach to identifying, assessing, prioritizing, and monitoring risks at the project level, supporting project teams in developing appropriate risk mitigation actions and strengthening risk-informed project management. |
-| **Quality and Performance Program Evaluation** | Application of an evidence-based evaluation methodology to assess organizational and program performance using structured scoring systems and analytical approaches, supported by a performance dashboard to visualize results, track trends, identify areas for improvement, and inform strategic decision-making. |
 | **Project Support and Recovery** | Support to partner organizations in strengthening the management of ongoing projects, including project monitoring, problem identification, corrective action planning, and project recovery when projects face implementation challenges. |
 
 ## Organization
