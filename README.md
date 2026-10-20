@@ -21,7 +21,7 @@ Each initiative reflects the application of decision science, analytics, operati
       <td><a href="./SUCO_Guatemala">SUCO Guatemala</a></td>
       <td>February 2026 – August 2026</td>
       <td rowspan="2">
-        Project management, quality improvement, risk management, and decision support through operational tools, analytical methods, monitoring approaches, and structured frameworks supporting planning, coordination, organizational learning, and evidence-based decision-making
+        Project management, quality improvement, risk management, and resource mobilization through operational tools, analytical methods, monitoring approaches, and structured frameworks supporting planning, coordination, organizational learning, and evidence-based decision-making
       </td>
     </tr>
     <tr>
